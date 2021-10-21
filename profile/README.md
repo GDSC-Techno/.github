@@ -1,4 +1,4 @@
-## Hi there, welcome the GDSC Techno! 
+## Hi there, welcome to GDSC Techno! 
 <img align="left" alt="Coding" width="200" src="https://cdn.dribbble.com/users/511295/screenshots/2629099/octocat-wave-dribbble.gif">
 
 
