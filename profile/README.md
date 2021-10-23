@@ -1,5 +1,5 @@
 ## Hi there, welcome to GDSC Techno! 
-<img align="left" alt="Coding" width="200" src="https://cdn.dribbble.com/users/511295/screenshots/2629099/octocat-wave-dribbble.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/511295/screenshots/2629099/octocat-wave-dribbble.gif">
 
 
 **[Note] : Please add to this README file to make it better! Change visibility to Public when the file is ready.**
